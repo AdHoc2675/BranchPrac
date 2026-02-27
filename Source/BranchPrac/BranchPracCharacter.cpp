@@ -32,6 +32,12 @@ ABranchPracCharacter::ABranchPracCharacter()
 
 	//changechangechangechangechangechangechangechange
 	//aaa
+	//alsdnralsdnralsdnralsdnralsdnralsdnralsdnralsdnr
+	//alsdnralsdnralsdnralsdnralsdnralsdnralsdnralsdnr
+	//alsdnralsdnralsdnralsdnralsdnralsdnralsdnralsdnr
+	//alsdnralsdnralsdnralsdnralsdnralsdnralsdnralsdnr
+	//alsdnralsdnralsdnralsdnralsdnralsdnralsdnralsdnr
+	//alsdnralsdnralsdnralsdnralsdnralsdnralsdnralsdnr
 
 	// Note: For faster iteration times these variables, and many more, can be tweaked in the Character Blueprint
 	// instead of recompiling to adjust them
